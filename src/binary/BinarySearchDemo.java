@@ -1,6 +1,5 @@
 package binary;
 
-
 public class BinarySearchDemo {
     int[] a = new int[]{2,3,5,7,45,654,754,777,2345,4433,4555,5652,8887};
 
